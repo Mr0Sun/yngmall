@@ -1,0 +1,71 @@
+{
+  "Code": "0000",
+  "Message": "成功",
+  "Data": [
+    {
+      "category_id": 44,
+      "name": "手机通讯",
+      "sort": 1
+    },
+    {
+      "category_id": 57,
+      "name": "数码配件",
+      "sort": 2
+    },
+    {
+      "category_id": 45,
+      "name": "电脑办公",
+      "sort": 3
+    },
+    {
+      "category_id": 988,
+      "name": "海淘精品",
+      "sort": 3
+    },
+    {
+      "category_id": 60,
+      "name": "智能设备",
+      "sort": 4
+    },
+    {
+      "category_id": 59,
+      "name": "生活电器",
+      "sort": 5
+    },
+    {
+      "category_id": 931,
+      "name": "个护美妆",
+      "sort": 7
+    },
+    {
+      "category_id": 909,
+      "name": "箱包配饰",
+      "sort": 8
+    },
+    {
+      "category_id": 922,
+      "name": "食品饮料",
+      "sort": 9
+    },
+    {
+      "category_id": 902,
+      "name": "家居家纺",
+      "sort": 10
+    },
+    {
+      "category_id": 945,
+      "name": "生活用品",
+      "sort": 11
+    },
+    {
+      "category_id": 953,
+      "name": "母婴用品",
+      "sort": 13
+    },
+    {
+      "category_id": 916,
+      "name": "户外运动",
+      "sort": 14
+    }
+  ]
+}

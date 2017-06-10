@@ -1,0 +1,1172 @@
+{
+  "Code": "0000",
+  "Message": "成功",
+  "Data": [
+    {
+      "title_img": "",
+      "Data": [
+        {
+          "title_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/activity/ms.png",
+          "url": "http://www.yngmall.com//b_zt/index.html?sid=17",
+          "sys_time": "\/Date(1496471148301)\/",
+          "end_time": "\/Date(1496635200000)\/",
+          "title": "秒杀",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": 11,
+          "jump_value": "http://www.yngmall.com//b_zt/index.html?sid=17",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/05/16/20160516170217614.jpg",
+              "goods_id": "1712852",
+              "head_img": "",
+              "title": "【秒杀】隆力奇便携装驱蚊花露水（AB版）60ml",
+              "goods_price": 1.00,
+              "market_price": 15.80,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com//b_zt/index.html?sid=17",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/03/02/20160302164230708.jpg",
+              "goods_id": "1712853",
+              "head_img": "",
+              "title": "【秒杀】洁宜佳护色彩漂液680ml",
+              "goods_price": 9.90,
+              "market_price": 16.90,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com//b_zt/index.html?sid=17",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/02/17/20160217141549541.jpg",
+              "goods_id": "1712854",
+              "head_img": "",
+              "title": "【秒杀】丹姿他能量男士畅爽磨砂洁面乳120g",
+              "goods_price": 9.90,
+              "market_price": 35.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com//b_zt/index.html?sid=17",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/03/20170303164135611.jpg",
+              "goods_id": "190519",
+              "head_img": "",
+              "title": "【秒杀】小米自拍杆",
+              "goods_price": 39.00,
+              "market_price": 149.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com//b_zt/index.html?sid=17",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/07/14/20160714133412272.jpg",
+              "goods_id": "1710661",
+              "head_img": "",
+              "title": "【秒杀】（韩国）papa recipe春雨蜂蜜蜂胶补水保湿美白面膜",
+              "goods_price": 95.00,
+              "market_price": 139.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com//b_zt/index.html?sid=17",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/11/30/20161130170626483.jpg",
+              "goods_id": "1710678",
+              "head_img": "",
+              "title": "【秒杀】vivo X9 全网通 移动联通电信4G手机 双卡双待",
+              "goods_price": 2798.00,
+              "market_price": 2798.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com//b_zt/index.html?sid=17",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/15/20170315105328648.jpg",
+              "goods_id": "1712751",
+              "head_img": "",
+              "title": "【秒杀】荣耀 V9 全网通 移动联通电信4G手机 双卡双待【送荣耀畅手环A1】",
+              "goods_price": 2599.00,
+              "market_price": 3499.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com//b_zt/index.html?sid=17",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_A_1"
+        },
+        {
+          "title_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/activity/mrh.png",
+          "url": "",
+          "sys_time": "\/Date(1496471148301)\/",
+          "end_time": "\/Date(1496471148301)\/",
+          "title": "每日惠",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/28/20170428162354265.jpeg",
+              "goods_id": "",
+              "head_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/27/20170427103916791.png",
+              "title": "排行榜",
+              "goods_price": "",
+              "market_price": "",
+              "url": "http://www.yngmall.com/functions/dailysell/dailysell.html?sid=82",
+              "pid": "639",
+              "jump_type": 11,
+              "jump_value": "http://www.yngmall.com/functions/dailysell/dailysell.html?sid=82",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/28/20170428160912310.jpg",
+              "goods_id": "",
+              "head_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/27/20170427104028011.png",
+              "title": "爱美控",
+              "goods_price": "",
+              "market_price": "",
+              "url": "http://www.yngmall.com/functions/dailysell/dailysell.html?sid=83",
+              "pid": "638",
+              "jump_type": 11,
+              "jump_value": "http://www.yngmall.com/functions/dailysell/dailysell.html?sid=83",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/28/20170428160534931.png",
+              "goods_id": "",
+              "head_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/27/20170427104055777.png",
+              "title": "自拍狂",
+              "goods_price": "",
+              "market_price": "",
+              "url": "http://www.yngmall.com/functions/dailysell/dailysell.html?sid=84",
+              "pid": "637",
+              "jump_type": 11,
+              "jump_value": "http://www.yngmall.com/functions/dailysell/dailysell.html?sid=84",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/28/20170428161415394.jpg",
+              "goods_id": "",
+              "head_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/27/20170427104156606.png",
+              "title": "时尚咖",
+              "goods_price": "",
+              "market_price": "",
+              "url": "http://www.yngmall.com/functions/dailysell/dailysell.html?sid=85",
+              "pid": "636",
+              "jump_type": 11,
+              "jump_value": "http://www.yngmall.com/functions/dailysell/dailysell.html?sid=85",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2016/12/22/20161222164507410.jpg",
+              "goods_id": "",
+              "head_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/04/27/20170427103819774.png",
+              "title": "电话煲",
+              "goods_price": "",
+              "market_price": "",
+              "url": "https://www.yngmall.com/functions/uyouCard/uyouCard.html",
+              "pid": "635",
+              "jump_type": 11,
+              "jump_value": "https://www.yngmall.com/functions/uyouCard/uyouCard.html",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_B"
+        }
+      ]
+    },
+    {
+      "title_img": "",
+      "Data": [
+        {
+          "title_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148301)\/",
+          "end_time": "\/Date(1496471148301)\/",
+          "title": "快乐购上面banner",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/05/10/20170510152345108.jpg",
+              "goods_id": "",
+              "head_img": "",
+              "title": "新人专享",
+              "goods_price": "",
+              "market_price": "",
+              "url": "http://www.yngmall.com/b_zt/index.html?sid=45&title=xinren&from=homepage/banner",
+              "pid": "633",
+              "jump_type": 11,
+              "jump_value": "http://www.yngmall.com/b_zt/index.html?sid=45&title=xinren&from=homepage/banner",
+              "wwqid": "",
+              "share_url": "",
+              "share_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/05/10/20170510152345108.jpg",
+              "share_content": ""
+            }
+          ],
+          "type": "activity_C"
+        }
+      ]
+    },
+    {
+      "title_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/activity/zhutijie.png",
+      "Data": [
+        {
+          "title_img": "",
+          "banner_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "主题街",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/02/15/20170215100709442.jpg",
+              "goods_id": "44",
+              "head_img": "",
+              "title": "手机通讯",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161054886.jpg",
+              "goods_id": "45",
+              "head_img": "",
+              "title": "电脑办公",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_D_1"
+        },
+        {
+          "title_img": "",
+          "banner_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "主题街",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161103417.jpg",
+              "goods_id": "57",
+              "head_img": "",
+              "title": "数码配件",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161112402.jpg",
+              "goods_id": "60",
+              "head_img": "",
+              "title": "智能设备",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161019088.jpg",
+              "goods_id": "59",
+              "head_img": "",
+              "title": "生活电器",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_D_2"
+        },
+        {
+          "title_img": "",
+          "banner_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "主题街",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/04/17/20170417140707309.jpg",
+              "goods_id": "988",
+              "head_img": "",
+              "title": "海淘精品",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/04/17/20170417140717085.jpg",
+              "goods_id": "988",
+              "head_img": "",
+              "title": "海淘精品",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/04/17/20170417140725340.jpg",
+              "goods_id": "988",
+              "head_img": "",
+              "title": "海淘精品",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_D_2"
+        },
+        {
+          "title_img": "",
+          "banner_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "主题街",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161122621.jpg",
+              "goods_id": "931",
+              "head_img": "",
+              "title": "个护美妆",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161131027.jpg",
+              "goods_id": "953",
+              "head_img": "",
+              "title": "母婴护理",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_D_1"
+        },
+        {
+          "title_img": "",
+          "banner_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "主题街",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161140496.jpg",
+              "goods_id": "909",
+              "head_img": "",
+              "title": "箱包配饰",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161150215.jpg",
+              "goods_id": "916",
+              "head_img": "",
+              "title": "户外运动",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161200903.jpg",
+              "goods_id": "902",
+              "head_img": "",
+              "title": "家居家纺",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_D_2"
+        },
+        {
+          "title_img": "",
+          "banner_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "主题街",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161210997.jpg",
+              "goods_id": "945",
+              "head_img": "",
+              "title": "生活用品",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161220637.jpg",
+              "goods_id": "922",
+              "head_img": "",
+              "title": "食品饮料",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/playearn/2017/01/10/20170110161231513.jpg",
+              "goods_id": "972",
+              "head_img": "",
+              "title": "视频会员",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "29",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_D_2"
+        }
+      ]
+    },
+    {
+      "title_img": "",
+      "Data": [
+        {
+          "title_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "主题街上面的banner",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/05/19/20170519154432105.png",
+              "goods_id": "",
+              "head_img": "",
+              "title": "1-8.8元微信红包随机领！",
+              "goods_price": "",
+              "market_price": "",
+              "url": "http://quanmama.com/t/apphongbao_track_nonelcj.aspx?key=yuancan3",
+              "pid": "813",
+              "jump_type": 11,
+              "jump_value": "http://quanmama.com/t/apphongbao_track_nonelcj.aspx?key=yuancan3",
+              "wwqid": "",
+              "share_url": "http://quanmama.com/t/apphongbao_track_nonelcj.aspx?key=yuancan3",
+              "share_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/05/19/20170519154432105.png",
+              "share_content": ""
+            }
+          ],
+          "type": "activity_C"
+        }
+      ]
+    },
+    {
+      "title_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/activity/klg2.png",
+      "Data": [
+        {
+          "title_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com//upload/playearn/2017/05/12/20170512152143473.jpg",
+          "banner_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com//upload/playearn/2017/05/12/20170512152143473.jpg",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "由你拼团",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": 0,
+          "jump_value": "25",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/03/02/20160302093713147.jpg",
+              "goods_id": "1712881",
+              "head_img": "",
+              "title": "【拼团】蒂花之秀精油奢养修护润发萃乳 （臻宠修护·丝滑柔顺）200ml",
+              "goods_price": 9.90,
+              "market_price": 18.80,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/05/18/20160518101355842.jpg",
+              "goods_id": "1712888",
+              "head_img": "",
+              "title": "【拼团】隆力奇清香型蛇胆牛黄花露水精品装60ml+60ml",
+              "goods_price": 19.90,
+              "market_price": 26.80,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/27/20170327173752704.jpg",
+              "goods_id": "1712516",
+              "head_img": "",
+              "title": "特惠9元拼团10元全国全网话费直充",
+              "goods_price": 9.00,
+              "market_price": 10.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/04/13/20170413165306481.jpg",
+              "goods_id": "1712583",
+              "head_img": "",
+              "title": " Hello kitty童袜（16-18CM）适用于3-6岁3双 9.9包邮",
+              "goods_price": 9.90,
+              "market_price": 128.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/02/13/20170213172754007.png",
+              "goods_id": "1712203",
+              "head_img": "",
+              "title": "优酷土豆黄金会员（卡密充值），充一次嗨一年",
+              "goods_price": 135.20,
+              "market_price": 169.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/02/13/20170213172829602.png",
+              "goods_id": "1712204",
+              "head_img": "",
+              "title": "腾讯视频VIP（卡密充值），充一次嗨一年",
+              "goods_price": 164.64,
+              "market_price": 198.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/02/13/20170213172853930.png",
+              "goods_id": "1712207",
+              "head_img": "",
+              "title": "爱奇艺黄金会员（卡密充值），充一次嗨一年",
+              "goods_price": 158.40,
+              "market_price": 198.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/02/13/20170213172927868.png",
+              "goods_id": "1712206",
+              "head_img": "",
+              "title": "乐次元影视会员（卡密充值），充一次嗨一年",
+              "goods_price": 128.70,
+              "market_price": 198.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/12/06/20161206110535642.jpg",
+              "goods_id": "1710713",
+              "head_img": "",
+              "title": "限量10000张，由你购无限制100元代金券，团购只要89元",
+              "goods_price": 89.00,
+              "market_price": 100.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/12/02/20161202174510551.png",
+              "goods_id": "1710635",
+              "head_img": "",
+              "title": "特惠45元拼团50元全国全网话费直充",
+              "goods_price": 45.00,
+              "market_price": 50.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/12/02/20161202174546318.png",
+              "goods_id": "1710634",
+              "head_img": "",
+              "title": "特惠90元拼团100元全国全网话费直充",
+              "goods_price": 90.00,
+              "market_price": 100.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/05/20/20160520153931709.jpg",
+              "goods_id": "1708957",
+              "head_img": "",
+              "title": "苹果（Apple） 带线控和麦克风的 iPhone/iPad/iPod EarPods 低频流行人声塞 耳机",
+              "goods_price": 60.00,
+              "market_price": 128.00,
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "25",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_A_2"
+        },
+        {
+          "title_img": "",
+          "banner_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com//upload/playearn/2017/05/12/20170512160137691.jpg",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "每日发现",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": 11,
+          "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+          "Data": [
+            {
+              "img": "http://img02.taobaocdn.com/bao/uploaded/i2/TB1gb6KNVXXXXaLaXXXXXXXXXXX_!!0-item_pic.jpg",
+              "goods_id": "540685069336",
+              "head_img": "",
+              "title": "韩国糖果色小清新苹果7/7plus手机壳iphone6/6plus全包边磨砂硬壳",
+              "goods_price": "1.78",
+              "market_price": "9.90",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img04.taobaocdn.com/bao/uploaded/i4/278836597/TB2F1ovb80kpuFjy1XaXXaFkVXa_!!278836597.jpg",
+              "goods_id": "544118303913",
+              "head_img": "",
+              "title": "OPPOA59A59MA59S原装充电器正品OPPOA53A37A33快充头数据线2A",
+              "goods_price": "1.80",
+              "market_price": "15.00",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img01.taobaocdn.com/bao/uploaded/i1/TB1QqgIMVXXXXXbXFXXXXXXXXXX_!!0-item_pic.jpg",
+              "goods_id": "537744765429",
+              "head_img": "",
+              "title": "全包边磨砂硬壳纯色iPhone6s手机壳苹果6plus保护套简约5SE超薄7P",
+              "goods_price": "0.52",
+              "market_price": "5.80",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img02.taobaocdn.com/bao/uploaded/i2/TB1Xl1GNXXXXXX3XVXXXXXXXXXX_!!0-item_pic.jpg",
+              "goods_id": "520634261864",
+              "head_img": "",
+              "title": "罗技 M186 无线光电鼠标笔记本台式电脑USB无线鼠标行货",
+              "goods_price": "4.14",
+              "market_price": "67.00",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img01.taobaocdn.com/bao/uploaded/i1/2676772095/TB2d_SOhl0lpuFjSszdXXcdxFXa_!!2676772095.jpg",
+              "goods_id": "535552038638",
+              "head_img": "",
+              "title": "象鼻子重低音通用耳机入耳式 手机线控耳机带麦有线正品包邮v8 6s",
+              "goods_price": "1.20",
+              "market_price": "39.90",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img01.taobaocdn.com/bao/uploaded/i1/TB1__LbLXXXXXbDXpXXXXXXXXXX_!!0-item_pic.jpg",
+              "goods_id": "525721001379",
+              "head_img": "",
+              "title": "aigo爱国者移动电源K150手机通用充电宝15000毫安双输出大容量",
+              "goods_price": "0.70",
+              "market_price": "89.00",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img02.taobaocdn.com/bao/uploaded/i2/TB1R0e5JFXXXXbLXpXXXXXXXXXX_!!0-item_pic.jpg",
+              "goods_id": "45278450117",
+              "head_img": "",
+              "title": "再也无需换电池 可充电静音炫光游戏级无线鼠标 卡佐M6 正品包邮",
+              "goods_price": "1.25",
+              "market_price": "34.90",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img01.taobaocdn.com/bao/uploaded/i1/2054408006/TB25kI_XhMb61BjSZFuXXaERXXa_!!2054408006.jpg",
+              "goods_id": "538731731862",
+              "head_img": "",
+              "title": "iphone7手机保暖绒面后盖背边框侧膜苹果贴膜iphone7plus装饰彩膜",
+              "goods_price": "1.67",
+              "market_price": "18.50",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1ZlYhOXXXXXbGXpXXXXXXXXXX_!!0-item_pic.jpg",
+              "goods_id": "536522202975",
+              "head_img": "",
+              "title": "巧克力键盘笔记本电脑 USB有线静音键盘 便携超薄键盘DCOMA KB-2",
+              "goods_price": "1.94",
+              "market_price": "39.00",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            },
+            {
+              "img": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1XH3tPFXXXXXNXXXXXXXXXXXX_!!0-item_pic.jpg",
+              "goods_id": "544395175444",
+              "head_img": "",
+              "title": "卡斐乐 华为mate9钢化膜 mate9全屏全覆盖抗蓝光透明3d曲面手机膜",
+              "goods_price": "3.97",
+              "market_price": "21.80",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "http://www.yngmall.com/functions/rebate/index.html",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_A_5"
+        }
+      ]
+    },
+    {
+      "title_img": "",
+      "Data": [
+        {
+          "title_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148348)\/",
+          "end_time": "\/Date(1496471148348)\/",
+          "title": "分享赚上面的banner",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/05/11/20170511165316697.jpg",
+              "goods_id": "",
+              "head_img": "",
+              "title": "消灭炎热，欢乐一夏！",
+              "goods_price": "",
+              "market_price": "",
+              "url": "http://www.yngmall.com/m/b_zt/index.html?sid=3223278eaace40dc82ffdbb7f1da1b6b172",
+              "pid": "680",
+              "jump_type": 11,
+              "jump_value": "http://www.yngmall.com/m/b_zt/index.html?sid=3223278eaace40dc82ffdbb7f1da1b6b172",
+              "wwqid": "",
+              "share_url": "",
+              "share_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/05/11/20170511165316697.jpg",
+              "share_content": ""
+            }
+          ],
+          "type": "activity_C"
+        }
+      ]
+    },
+    {
+      "title_img": "",
+      "Data": [
+        {
+          "title_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/activity/fxz.png",
+          "url": "",
+          "sys_time": "\/Date(1496471148379)\/",
+          "end_time": "\/Date(1496471148379)\/",
+          "title": "分享赚",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/04/21/20160421160037174.jpg",
+              "goods_id": "1709384",
+              "head_img": "",
+              "title": "帮宝适特级棉柔系列彩箱装加大号72片",
+              "goods_price": 236.90,
+              "market_price": "5.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "800"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/21/20170321174224364.jpg",
+              "goods_id": "1712447",
+              "head_img": "",
+              "title": "Daniel Wellington 超薄表盘北约风时尚尼龙表带男士手表 0102DW 玫瑰金【香港直",
+              "goods_price": 865.00,
+              "market_price": "5.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "832"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/03/20170303164135611.jpg",
+              "goods_id": "190519",
+              "head_img": "",
+              "title": "小米自拍杆",
+              "goods_price": 39.00,
+              "market_price": "2.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "824"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/21/20170321114601869.jpg",
+              "goods_id": "1712422",
+              "head_img": "",
+              "title": "Kumano熊野马油洗发水600ml【香港直邮】",
+              "goods_price": 75.00,
+              "market_price": "2.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "852"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/23/20170323162629152.jpg",
+              "goods_id": "1712493",
+              "head_img": "",
+              "title": "Daniel Wellington 超薄表盘北约风时尚尼龙表带女士手表 0502DW 玫瑰金【香港直",
+              "goods_price": 815.00,
+              "market_price": "5.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "839"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/12/01/20161201143214057.jpg",
+              "goods_id": "1710689",
+              "head_img": "",
+              "title": "华为荣耀自拍杆",
+              "goods_price": 48.00,
+              "market_price": "3.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "826"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/21/20170321114238029.jpg",
+              "goods_id": "1712421",
+              "head_img": "",
+              "title": "Kumano熊野马油护发素600ml【香港直邮】",
+              "goods_price": 75.00,
+              "market_price": "2.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "854"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/23/20170323161143606.jpg",
+              "goods_id": "1712492",
+              "head_img": "",
+              "title": "Daniel Wellington 超薄简约黑色皮表带商务休闲女士手表 0608DW 银色【香港直邮",
+              "goods_price": 0.00,
+              "market_price": "5.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "843"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/23/20170323172234276.jpg",
+              "goods_id": "1712506",
+              "head_img": "",
+              "title": "Daniel Wellington蓝表针黑鳄鱼纹皮表带男手表DW00100108【香港直邮】",
+              "goods_price": 1069.00,
+              "market_price": "10.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "833"
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/17/20170317181030040.jpg",
+              "goods_id": "1712369",
+              "head_img": "",
+              "title": "The Face Shop菲诗小铺 纤长睫毛膏*2支 01#  【香港直邮】",
+              "goods_price": 69.00,
+              "market_price": "4.00",
+              "url": "",
+              "pid": "",
+              "jump_type": -1,
+              "jump_value": "",
+              "wwqid": "845"
+            }
+          ],
+          "type": "activity_A_3"
+        }
+      ]
+    },
+    {
+      "title_img": "",
+      "Data": [
+        {
+          "title_img": "",
+          "url": "",
+          "sys_time": "\/Date(1496471148379)\/",
+          "end_time": "\/Date(1496635200000)\/",
+          "title": "玩赚",
+          "share_url": "",
+          "share_img": "",
+          "share_content": "",
+          "jump_type": -1,
+          "jump_value": "",
+          "Data": [
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com//upload/MainPage/activity/png_wanzhuanrukou_qianghongbao.png",
+              "goods_id": "",
+              "head_img": "",
+              "title": "抢红包",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "5",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com//upload/MainPage/activity/png_wanzhuanrukou_renwuzhuan.png",
+              "goods_id": "",
+              "head_img": "",
+              "title": "任务赚",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "7",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com//upload/MainPage/activity/png_wanzhuanrukou_yaoqinghuoban.png",
+              "goods_id": "",
+              "head_img": "",
+              "title": "邀请赚钱",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "4",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com//upload/MainPage/activity/png_wanzhuanrukou_jifenshangcheng.png",
+              "goods_id": "",
+              "head_img": "",
+              "title": "积分商城",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 0,
+              "jump_value": "27",
+              "wwqid": ""
+            },
+            {
+              "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com//upload/MainPage/activity/png_wanzhuanrukou_shifangqianshangcheng.png",
+              "goods_id": "",
+              "head_img": "",
+              "title": "私房钱商城",
+              "goods_price": "",
+              "market_price": "",
+              "url": "",
+              "pid": "",
+              "jump_type": 11,
+              "jump_value": "http://www.yngmall.com/zt/sfc201608/sfc.html",
+              "wwqid": ""
+            }
+          ],
+          "type": "activity_E"
+        }
+      ]
+    }
+  ]
+}

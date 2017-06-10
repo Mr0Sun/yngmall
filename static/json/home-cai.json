@@ -1,0 +1,137 @@
+{
+  "Code": "0000",
+  "Message": "成功",
+  "TITLE": [
+    {
+      "Id": 130,
+      "img_url": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/MainPage/2017/01/05/20170105202446149.png",
+      "note": "",
+      "url_address": "",
+      "title": "猜你喜欢标题",
+      "Integral": "",
+      "order_no": 1,
+      "type": -1,
+      "share_url": "",
+      "goods_id": "",
+      "position": 0,
+      "share_img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/",
+      "p_type": 11,
+      "begin_time": null,
+      "end_time": null,
+      "font_color": "",
+      "app_version": ""
+    }
+  ],
+  "DATA": [
+    {
+      "Id": 161,
+      "goods_id": 1709063,
+      "begin_time": "8",
+      "end_time": "19",
+      "state": 1,
+      "title": "丹姿水密码美容液120ml",
+      "name": "丹姿水密码美容液120ml",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/02/17/20160217143720754.jpg",
+      "cost_price": 39.8
+    },
+    {
+      "Id": 156,
+      "goods_id": 1709904,
+      "begin_time": "0",
+      "end_time": "24",
+      "state": 1,
+      "title": "",
+      "name": "华为 荣耀8 全网通版4G手机",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/07/22/20160722112920812.jpg",
+      "cost_price": 1999
+    },
+    {
+      "Id": 159,
+      "goods_id": 1712514,
+      "begin_time": "0",
+      "end_time": "24",
+      "state": 1,
+      "title": "华为 HUAWEI P10 全网通",
+      "name": "华为 HUAWEI P10 全网通",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/25/20170325090558101.jpg",
+      "cost_price": 4199
+    },
+    {
+      "Id": 160,
+      "goods_id": 1711841,
+      "begin_time": "9",
+      "end_time": "24",
+      "state": 1,
+      "title": "爱奇艺黄金会员（卡密充值）",
+      "name": "爱奇艺黄金会员（卡密充值）",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/01/04/20170104170556762.png",
+      "cost_price": 16
+    },
+    {
+      "Id": 144,
+      "goods_id": 1293696,
+      "begin_time": "6",
+      "end_time": "18",
+      "state": 1,
+      "title": "",
+      "name": "苹果平板IPAD-mini4-wifi",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2015/10/26/20151026171320083.jpg",
+      "cost_price": 2454
+    },
+    {
+      "Id": 166,
+      "goods_id": 1712412,
+      "begin_time": "7",
+      "end_time": "24",
+      "state": 1,
+      "title": "COACH蔻驰 女士牛皮长款钱包 粉色【美国直邮】",
+      "name": "COACH蔻驰 女士牛皮长款钱包 粉色【美国直邮】",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2017/03/21/20170321102729630.jpg",
+      "cost_price": 1650
+    },
+    {
+      "Id": 167,
+      "goods_id": 1708143,
+      "begin_time": "0",
+      "end_time": "24",
+      "state": 1,
+      "title": "小米空气净化器二代 除pm2.5甲醛雾霾二手烟 办公智能空气清新净化器滤芯",
+      "name": "小米空气净化器二代 除pm2.5甲醛雾霾二手烟 办公智能空气清新净化器滤芯",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/03/15/20160315121327198.jpg",
+      "cost_price": 850
+    },
+    {
+      "Id": 162,
+      "goods_id": 1710670,
+      "begin_time": "9",
+      "end_time": "20",
+      "state": 1,
+      "title": "比得兔陶瓷杯子创意粉色马克杯 咖啡杯PR-T382",
+      "name": "比得兔陶瓷杯子创意粉色马克杯 咖啡杯PR-T382",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/11/30/20161130112726818.jpg",
+      "cost_price": 35
+    },
+    {
+      "Id": 112,
+      "goods_id": 1708812,
+      "begin_time": "0",
+      "end_time": "12",
+      "state": 1,
+      "title": "",
+      "name": "Apple iPad mini 4 苹果平板电脑 WLAN+Cellular版",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2016/04/26/20160426092127712.jpg",
+      "cost_price": 3588
+    },
+    {
+      "Id": 98,
+      "goods_id": 1243789,
+      "begin_time": "0",
+      "end_time": "12",
+      "state": 1,
+      "title": "",
+      "name": "苹果平板IPAD-AIR2-WLAN+Cellular",
+      "img": "https://yngupload.oss-cn-hangzhou.aliyuncs.com/upload/2015/10/23/20151023145138416.jpg",
+      "cost_price": 3519
+    }
+  ]
+}
